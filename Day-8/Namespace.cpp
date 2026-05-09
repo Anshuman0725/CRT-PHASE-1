@@ -15,7 +15,7 @@ namespace Rohit
 {
     void show()
     {
-        cout << "He is the part of Mi" << endl;
+        cout << "He is the part of MI" << endl;
     }
 }
 
