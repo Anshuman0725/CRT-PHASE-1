@@ -3,6 +3,7 @@ using namespace std;
 
 int sumOfDigits(int n)
 {
+    // Base Case
     if(n==0)
         return 0;
     else
